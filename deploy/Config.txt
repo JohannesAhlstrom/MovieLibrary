@@ -1,0 +1,2 @@
+textmapfilename=MovieLibrary.txt
+serializedmapfilename=MovieLibrary.ser
