@@ -14,14 +14,22 @@ Current functionality include:
 Configuration of paths or filenames for library output files, both text backup and serialized.
 
 Show the contents of the library (Is initialized with 20 default movies).
+
 Add movies using the Title, Main actor, Year of production, Length and Type.
+
 Remove movies based on their names, or specific versions of the same movie if applicable.
+
 Search for movies using either raw input, or syntaxed searches for specific
 attributes, regular search: "Peter Stormare", Syntaxed search: "Title=Peter".
+
 Save the current library using serialization.
+
 Read the library contents from serialized file.
+
 Clear the library.
+
 TimeSearch: Filters movies based on a user specified time constraint.
+
 Quit application.
 
 ----------------------------
