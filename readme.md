@@ -1,7 +1,8 @@
 Welcome to the MovieLibrary
 ----------------------------
 Instructions:
-Click the "MovieLibrary.sh" shell-script file.
+Download the repository
+Click the "MovieLibrary.sh" shell-script file in the "deploy" folder.
 Choose either GUI (Graphical user interface) or CLI (Command Line Interface).
 For documentation, click the "Index" file in JavaDoc.
 Architecture can be found in "MovieLibrary.pdf"
